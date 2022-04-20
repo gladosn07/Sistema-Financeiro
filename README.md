@@ -31,4 +31,4 @@ yarn start
 
 # Imagem da tela inicial da Aplicacao
 
-![](src/assets/InitialScreen.png)
+![](src/asset/financeiro.png)
